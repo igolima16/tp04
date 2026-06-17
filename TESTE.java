@@ -1,5 +1,12 @@
 public class TesteData { 
     public static void main(String[] args) {
+        /*
+		aluno: Igo lima borges
+		aluno: Guilherme silvestre de farias 
+		exercicio 2
+		Agora, desenvolva um programa capaz de testar a classe e os métodos desenvolvidos no
+		exercício anterior.
+		*/
         System.out.println(" CRIANDO DATA COM DADOS NO CÓDIGO ");
         Data dataPronta = new Data(20, 4, 2024);
         
